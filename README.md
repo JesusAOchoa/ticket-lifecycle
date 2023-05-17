@@ -3,8 +3,9 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-We will essentialy show here how we can work in osTicket system as a profesional helpdesk responding to tickets and resolving issues.<br />
+This tutorial guides you through the entire process of handling support inquiries within osTicket, from intake to resolution.<br />
+
+In this tutorial, we will explore the process of working in osTicket as a professional helpdesk technician, efficiently responding to tickets and resolving issues.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -29,36 +30,32 @@ We will essentialy show here how we can work in osTicket system as a profesional
 <p> 
 <h2>Stage 1: Intake</h2>
 
-Go to portal, sign in and open a new ticket as a customer. For testing purposes the url is: [osTicket Link](https://localhost/osTicket/)
+Access the portal, sign in, and generate a new customer ticket for testing purposes. The URL: [osTicket Link](https://localhost/osTicket/)
 <br>
 
-<img src="https://i.imgur.com/VSfQqeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This stage is when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an email address that is designated for tickets. In this form, the user/customer provides their contact information, the topic/issue, and details about the issue.
+In this stage, a new ticket is created. Tickets can be submitted through a form or by emailing a designated ticket address. Users provide their contact information, select the topic/issue, and provide details about the problem.
 </p>
 <p>
 <h2>Stage 2: Assignment</h2>
 <p> 
-Once the ticket has been submitted, the ticket can be assigned to an IT professional. in our case, to properly handled the ticket, information regarding the level of severity has been changed. The Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator.
+After the ticket is submitted, it can be assigned to an IT professional. In our case, the ticket handling information has been adjusted for proper management. The severity level has been updated, with the Priority set to "Emergency," the SLA Plan to "SEV-A," and the Department to "System Administrators." Additionally, the ticket has been assigned to the administrator "Jane Doe" for resolution.
 </p> 
-<img src="https://i.imgur.com/StzNVXh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/RRhx3j5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
 <h2>Stage 3: Working the Issue</h2>
 <p> 
-Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already done and facilitates communication between everyone involved.
+With the ticket now assigned to the relevant department and staff members, the IT team can begin working on resolving the issue. Throughout the process, any updates or changes related to the ticket can be documented in the Ticket Thread through comments. This ensures that all individuals viewing the ticket are informed about the progress and fosters effective communication among everyone involved.
 </p> 
-<img src="https://i.imgur.com/XZXatgw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <h2>Stage 4: Resolution</h2>
 <p> 
-When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. As an IT professionals, it is a good pratice to browse closed tickets since they can be a "big library"  to find solutions to open tickets.
+Once the issue has been successfully resolved, the ticket can be closed, causing it to transition from the Open section to the Closed section. As IT professionals, it is beneficial to browse through closed tickets as they serve as a valuable repository of solutions that can be referenced when handling open tickets. Consider it a "big library" of knowledge that aids in addressing future inquiries effectively.
 </p> 
 
-<img src="https://i.imgur.com/Jni8oxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
 
-Thank You for reading!
+And that's it, Thank you so much for reading!
